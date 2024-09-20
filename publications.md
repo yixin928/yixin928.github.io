@@ -8,9 +8,9 @@ title: Publications
 
 ## Peer-reviewed Conference Paper
 
-- **名称中的性别力量:品牌名称性别化对消费者品牌态度的影响研究**<br>贾煜, 张皓翔, 彭新星, 黄伊欣, 陈枢菲<br>首届时尚传播与时尚产业发展国际学术会议<br>武汉, 中国, 9月20-22日, 2024年.<br>
+- **名称中的性别力量:品牌名称性别化对消费者品牌态度的影响研究**<br>贾煜, 张皓翔, 彭新星, **黄伊欣**, 陈枢菲<br>首届时尚传播与时尚产业发展国际学术会议<br>武汉, 中国, 9月20-22日, 2024年.<br>
 
-- **“走钢丝”：直播平台“擦边”短视频生产的界限塑造**<br>谢卓潇，黄伊欣<br>第十届青年人类学论坛<br>南京, 中国, 6月1-2日, 2024年.<br>
+- **“走钢丝”：直播平台“擦边”短视频生产的界限塑造**<br>谢卓潇，**黄伊欣**<br>第十届青年人类学论坛<br>南京, 中国, 6月1-2日, 2024年.<br>
 
 - **Gendered power in names: The Impact of Brand Name Gender on Brand Attitude**<br>Yu Jia, Haoxiang Zhang, Xinxing Peng, **Yixin Huang**†, Shufei Chen<br>The International Association for Media and Communication Research (IAMCR) conferencee<br>Christchurch, New Zealand, June 30-July 4, 2024.<br>
 
