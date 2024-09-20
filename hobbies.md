@@ -22,7 +22,6 @@ title: Hobbies
 
 ## Kitty🐱
 
-<div class="third">
 <img src="/images/weiwei.JPG">
 <img src="/images/tiger1.JPG">
 <img src="/images/tiger2.JPG">
