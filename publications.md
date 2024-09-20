@@ -16,7 +16,7 @@ title: Publications
 
 - H(alf) radical? Chinese H lesbians' digital struggles with gender binary T/P labels<br>Hao Cao, Yanting Hou, Tong Li, Kangnaixin Qiao, Xinxing Peng, Haoxiang Zhang, **Yixin Huang**†<br>The International Association for Media and Communication Research (IAMCR) conference<br>Christchurch, New Zealand, June 30-July 4, 2024.<br>
 
-- "He's just à L'Étranger..." Disciplining Chinese feminism through censuring male feminists<br>Hao Cao, **Yixin Huang**~<br>The 73rd Annual Conference of International Communication Associate(ICA)<br>Toronto, Canada, May 25-29, 2023.<br>
+- "He's just à L'Étranger..." Disciplining Chinese feminism through censuring male feminists<br>Hao Cao, **Yixin Huang**<br>The 73rd Annual Conference of International Communication Associate(ICA)<br>Toronto, Canada, May 25-29, 2023.<br>
 
 
 
