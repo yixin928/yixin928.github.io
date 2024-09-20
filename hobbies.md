@@ -27,7 +27,7 @@ The most beautiful thing is playing my favorite music on my piano and guitar.
 <img src="/images/tiger1.JPG">
 <img src="/images/tiger2.JPG">
 </div>
-<br>Weiwei(威威), Tiger I and Tiger II are always my love. Kitties saves the World!
+<br>Weiwei(威威), Tiger I and Tiger II are always my love. Kitties save the World!
 
 
 
