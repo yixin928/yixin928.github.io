@@ -12,7 +12,7 @@ title: Publications
 
 - **“走钢丝”：直播平台“擦边”短视频生产的界限塑造**<br>谢卓潇，**黄伊欣**<br>第十届青年人类学论坛<br>南京, 中国, 6月1-2日, 2024年.<br>
 
-- **Gendered power in names: The Impact of Brand Name Gender on Brand Attitude**<br>Yu Jia, Haoxiang Zhang, Xinxing Peng, **Yixin Huang**†, Shufei Chen<br>The International Association for Media and Communication Research (IAMCR) conferencee<br>Christchurch, New Zealand, June 30-July 4, 2024.<br>
+- **Gendered power in names: The Impact of Brand Name Gender on Brand Attitude**<br>Yu Jia, Haoxiang Zhang, Xinxing Peng, **Yixin Huang**†, Shufei Chen<br>The International Association for Media and Communication Research (IAMCR) conference<br>Christchurch, New Zealand, June 30-July 4, 2024.<br>
 
 - **H(alf) radical? Chinese H lesbians' digital struggles with gender binary T/P labels**<br>Hao Cao, Yanting Hou, Tong Li, Kangnaixin Qiao, Xinxing Peng, Haoxiang Zhang, **Yixin Huang**†<br>The International Association for Media and Communication Research (IAMCR) conference<br>Christchurch, New Zealand, June 30-July 4, 2024.<br>
 
