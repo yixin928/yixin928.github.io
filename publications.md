@@ -6,7 +6,11 @@ title: Publications
 
 > (†: equal contribution)
 
-## Peer-reviewed Conference Paper
+## Peer-reviewed Conference Papers
+
+- **Manufacturing “*Cabian*”: Content Moderation and Censorship Negotiation of Eroticism on Chinese Short-video/Live-streaming Platforms**<br>**Yixin Huang**, Zhuoxiao Xie<br>The 75th Annual Conference of the International Communication Association(ICA)<br>Denver, USA, June 12-16, 2025.<br>
+
+- **Straight but a little bent? (*zhinan weiwan*) How Chinese male softcore influencers navigate masculinity, platform traffic, and money**<br>Hao Cao, **Yixin Huang**; Jiayue Sun, Xuanhe Zhang<br>The 75th Annual Conference of the International Communication Association(ICA)<br>Denver, USA, June 12-16, 2025.<br>
 
 - **名称中的性别力量:品牌名称性别化对消费者品牌态度的影响研究**<br>贾煜, 张皓翔, 彭新星, **黄伊欣**, 陈枢菲<br>首届时尚传播与时尚产业发展国际学术会议<br>武汉, 中国, 9月20-22日, 2024年.<br>
 
