@@ -2,73 +2,36 @@
 layout: page
 ---
 # About Me
-<br>
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    <p style="text-indent: 2em; margin: 0 0 1em 0;">Here is Yixin Huang (黄伊欣). I am a graduate student majoring in communication at Nanjing University, supervised by [Asst. Prof. Zhuoxiao Xie](https://www.researchgate.net/profile/Zhuoxiao-Xie).</p>
-    <p>My interests focus on <strong>platform studies</strong>, <strong>media technologies</strong> and <strong>cross-boder e-commerce</strong>. Feel free to drop me an Email for any form of communication or collaboration!</p>
-    <p>Email: yixinhuang[at]smail.nju.edu.cn/yixinnn.huang[at]gmail.com</p>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="images/profile-yixin.jpg" style="width: 280px; height: auto;" alt="Yixin Huang">
-  </div>
-</div>
+
+Hi! Here is Yixin Huang (黄伊欣). I am a graduate student majoring in communication at Nanjing University, supervised by [Asst Prof. Zhuoxiao Xie](https://www.researchgate.net/profile/Zhuoxiao-Xie).
+
+My interests focus on **platform studies**, **media technologies** and **cross-boder e-commerce**. Feel free to drop me an Email for any form of communication or collaboration!
+
+yixinhuang[at]smail.nju.edu.cn/yixinnn.huang[at]gmail.com
+
+![Yixin Huang](images/profile-yixin.jpg)
 
 ## Education Background
-<div style="display: flex; align-items: center; margin: 20px 0;">
-  <img src="images/Nanjing Univ.svg" width="70" height="70" style="object-fit: contain; margin-right: 16px;" alt="Nanjing University Logo">
-  <div>
-    <span style="font-size: 18px; font-weight: bold;">Sep 2024 - Now: Nanjing University</span>
-    <br>
-    <span style="font-size: 16px;">MA, Communication</span>
-  </div>
-</div>
 
-<div style="display: flex; align-items: center; margin: 20px 0;">
-  <img src="images/Wuhan Univ.png" width="70" height="70" style="object-fit: contain; margin-right: 16px;" alt="Wuhan University Logo">
-  <div>
-    <span style="font-size: 18px; font-weight: bold;">Sep 2020 - June 2024: Wuhan University</span>
-    <br>
-    <span style="font-size: 16px;">BA, Television Broadcasting Science</span>
-  </div>
-</div>
+- ![Nanjing University Logo](images/Nanjing Univ.svg) **Sep 2024 - Now: Nanjing University**  
+  MA, Communication
+
+- ![Wuhan University Logo](images/Wuhan Univ.png) **Sep 2020 - June 2024: Wuhan University**  
+  BA, Television Broadcasting Science
 
 ## Internship Experiences
-<div style="display: flex; align-items: center; margin: 20px 0;">
-  <img src="images/Shopee.png" width="70" height="70" style="object-fit: contain; margin-right: 16px;" alt="Shopee Logo">
-  <div>
-    <span style="font-size: 18px; font-weight: bold;">Shopee</span>
-    <br>
-    <span style="font-size: 16px;">Ads Platform-Product Manager</span>
-  </div>
-</div>
 
-<div style="display: flex; align-items: center; margin: 20px 0;">
-  <img src="images/TME.png" width="70" height="70" style="object-fit: contain; margin-right: 16px;" alt="Tencent Music Logo">
-  <div>
-    <span style="font-size: 18px; font-weight: bold;">Tencent Music</span>
-    <br>
-    <span style="font-size: 16px;">QQ Music-Product Operation</span>
-  </div>
-</div>
+- ![Shopee Logo](images/Shopee.png) **Shopee**  
+  Ads Platform-Product Manager
 
-<div style="display: flex; align-items: center; margin: 20px 0;">
-  <img src="images/SHEIN.png" width="70" height="70" style="object-fit: contain; margin-right: 16px;" alt="SHEIN Logo">
-  <div>
-    <span style="font-size: 18px; font-weight: bold;">SHEIN</span>
-    <br>
-    <span style="font-size: 16px;">Global Operation Center-Brand Operation</span>
-  </div>
-</div>
+- ![Tencent Music Logo](images/TME.png) **Tencent Music**  
+  QQ Music-Product Operation
 
-<div style="display: flex; align-items: center; margin: 20px 0;">
-  <img src="images/china youth daily.jpeg" width="70" height="70" style="object-fit: contain; margin-right: 16px;" alt="China Youth Daily Logo">
-  <div>
-    <span style="font-size: 18px; font-weight: bold;">China Youth Daily</span>
-    <br>
-    <span style="font-size: 16px;">Multimedia Center-Journalist</span>
-  </div>
-</div>
+- ![SHEIN Logo](images/SHEIN.png) **SHEIN**  
+  Global Operation Center-Brand Operation
+
+- ![China Youth Daily Logo](images/china youth daily.jpeg) **China Youth Daily**  
+  Multimedia Center-Journalist
 
 ---
 
