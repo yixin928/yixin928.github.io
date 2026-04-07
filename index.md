@@ -11,7 +11,7 @@ layout: page
     <p>Email: yixinhuang[at]smail.nju.edu.cn yixinnn.huang[at]gmail.com</p>
   </div>
   <div style="flex-shrink: 0;">
-    <img src="images/your-photo.jpg" style="width: 280px; height: auto; border-radius: 0;" alt="Yixin Huang">
+    <img src="images/profile-yixin.jpg" style="width: 280px; height: auto; border-radius: 0;" alt="Yixin Huang">
   </div>
 </div>
 
