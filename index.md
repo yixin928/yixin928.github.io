@@ -2,11 +2,12 @@
 layout: page
 ---
 # About Me
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; margin-bottom: 20px;">
   <div style="flex: 1;">
     <p>Here is Yixin Huang (黄伊欣). I am a graduate student majoring in communication at Nanjing University, supervised by Prof. Zhuoxiao Xie.</p>
     <p>My interests focus on <strong>platform studies</strong>, <strong>media technologies</strong> and <strong>cross-boder e-commerce</strong>. Feel free to drop me an Email for any form of communication or collaboration!</p>
-    <p>Email: yixinhuang[at]smail.nju.edu.cn yixinnn.huang[at]gmail.com</p>
+    <p>Email: yixinhuang[at]smail.nju.edu.cn/yixinnn.huang[at]gmail.com</p>
   </div>
   <div style="flex-shrink: 0;">
     <img src="images/profile-yixin.jpg" style="width: 280px; height: auto;" alt="Yixin Huang">
@@ -14,8 +15,7 @@ layout: page
 </div>
 <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 20px 0;">
 
-# Education Background
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 20px 0;">
+## Education Background
 <div style="display: flex; align-items: center; margin: 20px 0;">
   <img src="images/Nanjing Univ.svg" width="70" height="70" style="object-fit: contain; margin-right: 16px;" alt="Nanjing University Logo">
   <div>
@@ -35,8 +35,7 @@ layout: page
 </div>
 <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 20px 0;">
 
-# Internship Experiences
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 20px 0;">
+## Internship Experiences
 <div style="display: flex; align-items: center; margin: 20px 0;">
   <img src="images/Shopee.png" width="70" height="70" style="object-fit: contain; margin-right: 16px;" alt="Shopee Logo">
   <div>
