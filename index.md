@@ -6,9 +6,11 @@ layout: page
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px;">
   <div style="flex: 1;">
+    <p></p>
     <p>Here is Yixin Huang (黄伊欣). I am a graduate student majoring in communication at Nanjing University, supervised by Prof. Zhuoxiao Xie.</p>
     <p>My interests focus on <strong>platform studies</strong>, <strong>media technologies</strong> and <strong>cross-boder e-commerce</strong>. Feel free to drop me an Email for any form of communication or collaboration!</p>
-    <p>Email: yixinhuang[at]smail.nju.edu.cn yixinnn.huang[at]gmail.com</p>
+    <p>Email: yixinhuang[at]smail.nju.edu.cn/yixinnn.huang[at]gmail.com</p>
+    <p></p>
   </div>
   <div style="flex-shrink: 0;">
     <img src="images/profile-yixin.jpg" style="width: 280px; height: auto; border-radius: 0;" alt="Yixin Huang">
