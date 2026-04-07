@@ -6,7 +6,7 @@ layout: page
 <div style="display:flex; gap:30px; margin-bottom:20px;">
 <div style="flex:1;">
 
-Hi! Here is Yixin Huang (黄伊欣). I am a graduate student majoring in communication at Nanjing University, supervised by [Asst Prof. Zhuoxiao Xie](sslocal://flow/file_open?url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FZhuoxiao-Xie&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=).
+Hi! Here is Yixin Huang (黄伊欣). I am a graduate student majoring in communication at Nanjing University, supervised by [Asst Prof. Zhuoxiao Xie](https://www.researchgate.net/profile/Zhuoxiao-Xie).
 
 My interests focus on **platform studies**, **media technologies** and **cross-border e-commerce**. Feel free to drop me an Email for any form of communication or collaboration!
 
