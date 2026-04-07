@@ -2,10 +2,10 @@
 layout: page
 ---
 # About Me
-
+<br>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; margin-bottom: 20px;">
   <div style="flex: 1;">
-    <p>Here is Yixin Huang (黄伊欣). I am a graduate student majoring in communication at Nanjing University, supervised by Prof. Zhuoxiao Xie.</p>
+    <p style="text-indent: 2em; margin: 0 0 1em 0;">Here is Yixin Huang (黄伊欣). I am a graduate student majoring in communication at Nanjing University, supervised by [Asst. Prof. Zhuoxiao Xie](https://www.researchgate.net/profile/Zhuoxiao-Xie).</p>
     <p>My interests focus on <strong>platform studies</strong>, <strong>media technologies</strong> and <strong>cross-boder e-commerce</strong>. Feel free to drop me an Email for any form of communication or collaboration!</p>
     <p>Email: yixinhuang[at]smail.nju.edu.cn/yixinnn.huang[at]gmail.com</p>
   </div>
@@ -13,7 +13,6 @@ layout: page
     <img src="images/profile-yixin.jpg" style="width: 280px; height: auto;" alt="Yixin Huang">
   </div>
 </div>
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 20px 0;">
 
 ## Education Background
 <div style="display: flex; align-items: center; margin: 20px 0;">
@@ -21,7 +20,7 @@ layout: page
   <div>
     <span style="font-size: 18px; font-weight: bold;">Sep 2024 - Now: Nanjing University</span>
     <br>
-    <span style="font-size: 16px;">(MA, Communication)</span>
+    <span style="font-size: 16px;">MA, Communication</span>
   </div>
 </div>
 
@@ -30,10 +29,9 @@ layout: page
   <div>
     <span style="font-size: 18px; font-weight: bold;">Sep 2020 - June 2024: Wuhan University</span>
     <br>
-    <span style="font-size: 16px;">(BA, Television Broadcasting Science)</span>
+    <span style="font-size: 16px;">BA, Television Broadcasting Science</span>
   </div>
 </div>
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 20px 0;">
 
 ## Internship Experiences
 <div style="display: flex; align-items: center; margin: 20px 0;">
