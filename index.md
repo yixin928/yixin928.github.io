@@ -7,7 +7,8 @@ layout: page
   <div style="flex: 1; font-size: 16px; line-height: 1.7;">
     <p style="text-indent: 2em; margin: 0 0 1.2em 0;">Here is Yixin Huang (黄伊欣). I am a graduate student majoring in communication at Nanjing University, supervised by <a href="https://www.researchgate.net/profile/Zhuoxiao-Xie" target="_blank">Asst. Prof. Zhuoxiao Xie</a>.</p>
     <p style="margin: 0 0 1.2em 0;">My interests focus on <strong>platform studies</strong>, <strong>media technologies</strong> and <strong>cross-boder e-commerce</strong>. Feel free to drop me an Email for any form of communication or collaboration!</p>
-    <p style="margin: 0;">yixinhuang[at]smail.nju.edu.cn/yixinnn.huang[at]gmail.com</p>
+    <p style="margin: 0;">yixinhuang[at]smail.nju.edu.cn</p>
+    <p style="margin: 0;">yixinnn.huang[at]gmail.com</p>
   </div>
   <div style="flex-shrink: 0;">
     <img src="images/profile-yixin.jpg" style="width: 280px; height: auto;" alt="Yixin Huang">
