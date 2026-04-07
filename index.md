@@ -4,6 +4,8 @@ layout: page
 
 # About Me
 
+
+
 <img src="images/profile-yixin.jpg" class="floatpic" width="344" height="508">
 
 
@@ -13,8 +15,8 @@ Here is **Yixin Huang (黄伊欣)**. I am a graduate student majoring in communi
 My interests focus on **platform studies, media technologies** and **cross-boder e-commerce**. Feel free to drop me an Email for any form of communication or collaboration!
 
 Email:
-*yixinhuang[at]smail.nju.edu.cn*
-*yixinnn.huang[at]gmail.com*
+yixinhuang[at]smail.nju.edu.cn
+yixinnn.huang[at]gmail.com
 
 ## Education Background
 
