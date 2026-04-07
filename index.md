@@ -34,6 +34,9 @@ layout: page
   </div>
 </div>
 
+<br>
+<br>
+<br>
 
 ## Internship Experiences
 <div style="display: flex; align-items: center; margin: 12px 0;">
