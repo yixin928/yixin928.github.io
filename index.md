@@ -5,8 +5,9 @@ layout: page
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; margin-bottom: 20px;">
   <div style="flex: 1; font-size: 16px; line-height: 1.7;">
-    <p style="text-indent: 2em; margin: 0 0 1.2em 0;">Here is Yixin Huang (黄伊欣). I am a graduate student majoring in communication at Nanjing University, supervised by <a href="https://www.researchgate.net/profile/Zhuoxiao-Xie" target="_blank">Asst. Prof. Zhuoxiao Xie</a>.</p>
-    <p style="margin: 0 0 1.2em 0;">My interests focus on <strong>platform studies</strong>, <strong>media technologies</strong> and <strong>cross-boder e-commerce</strong>. Feel free to drop me an Email for any form of communication or collaboration!</p>
+    <br>
+    <p style="text-indent: 2em; margin: 0 0 1.2em 0;">Here is Yixin Huang (黄伊欣). I am a Master student majoring in communication at Nanjing University (Sep.2024 - Now), supervised by <a href="https://www.researchgate.net/profile/Zhuoxiao-Xie" target="_blank">Asst. Prof. Zhuoxiao Xie</a>.</p>
+    <p style="margin: 0 0 1.2em 0;">My interests focus on <strong>platform studies</strong>, <strong>media technologies</strong> and <strong>cross-boder e-commerce</strong>. I am fascinated by the ways in which digital platform has reshaped society, culture, and the way we live. Feel free to drop me an Email for any form of communication or collaboration!</p>
     <p style="margin: 0;">yixinhuang[at]smail.nju.edu.cn</p>
     <p style="margin: 0;">yixinnn.huang[at]gmail.com</p>
   </div>
