@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /miscellaneous/index.html
+title: Miscellaneous
 ---
 
-# Hobbies
+# Miscellaneous
 
 ## Swimming🏊 & Badminton🏸
 <br> Savor every heartbeat, every decision, and every small step forward. 
