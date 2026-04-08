@@ -16,6 +16,8 @@ layout: page
   </div>
 </div>
 
+<br>
+
 ## Education Background
 <div style="display: flex; align-items: center; margin: 12px 0;">
   <img src="images/Nanjing Univ.svg" width="70" height="70" style="object-fit: contain; margin-right: 16px;" alt="Nanjing University Logo">
