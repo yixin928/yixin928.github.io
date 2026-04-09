@@ -33,7 +33,7 @@ layout: page
   <div>
     <span style="font-size: 16px; font-weight: bold;">Sep 2020 - June 2024: Wuhan University</span>
     <br>
-    <span style="font-size: 16px;">BA, Television Broadcasting Science</span>
+    <span style="font-size: 16px;">BA, Television and Broadcasting Science</span>
   </div>
 </div>
 
